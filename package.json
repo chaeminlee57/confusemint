@@ -1,0 +1,21 @@
+{
+  "name": "blackhole",
+  "displayName": "blackhole",
+  "description": "My first attempt using yo code for extension",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "blackhole",
+        "uiTheme": "hc-black",
+        "path": "./themes/blackhole-color-theme.json"
+      }
+    ]
+  }
+}
