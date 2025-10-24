@@ -1,3 +1,13 @@
-node_modules
+# Dependencies
+node_modules/
+
+# Packaged extension
 *.vsix
-.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.vscode-test/
