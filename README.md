@@ -1,16 +1,7 @@
-# blackhole README
+# Confusemint
 
-## Working with Markdown
+I am trying to code an AI coding agent as a VS code extension without using ***any*** help from AI. Just stack overflow, official documentations, and Google's websites.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+In the process, I've learned about yeoman and yo, and that I can make my own VS code color theme.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+So here's the world's most syntactically monotonous color theme as a way for me to familiarize myself with yo a bit, although looking back I don't think this did much for my learning.
